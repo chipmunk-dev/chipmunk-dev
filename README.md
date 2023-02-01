@@ -14,7 +14,7 @@
 <p>
   <img src="https://img.shields.io/badge/nestJS-6DB33F?style=flat-square&amp;logo=nestJS&amp;logoColor=red" />
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&amp;logo=Spring&amp;logoColor=green" />
-  <img src="https://img.shields.io/badge/React-3776AB?style=flat-square&amp;logo=React&amp;logoColor=blue" />
+  <img src="https://img.shields.io/badge/React-6DB33F?style=flat-square&amp;logo=React&amp;logoColor=blue" />
 </p>
 
 <h4> 🗄 Database </h4>
