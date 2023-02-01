@@ -12,6 +12,7 @@
 
 <h4> 📚 Libarary & Framework </h4>
 <p>
+  <img src="https://img.shields.io/badge/nestJS-6DB33F?style=flat-square&amp;logo=nestJS&amp;logoColor=white" />
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&amp;logo=Spring&amp;logoColor=white" />
   <img src="https://img.shields.io/badge/React-3776AB?style=flat-square&amp;logo=React&amp;logoColor=white" />
 </p>
