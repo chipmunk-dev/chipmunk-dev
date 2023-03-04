@@ -12,14 +12,14 @@
 
 <h4> 📚 Libarary & Framework </h4>
 <p>
-  <img src="https://img.shields.io/badge/nestJS-6DB33F?style=flat-square&amp;logo=nestJS&amp;logoColor=red" />
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&amp;logo=Spring&amp;logoColor=green" />
+  <img src="https://img.shields.io/badge/Express-6DB33F?style=flat-square&amp;logo=express&amp;logoColor=red" />
   <img src="https://img.shields.io/badge/React-6DB33F?style=flat-square&amp;logo=React&amp;logoColor=blue" />
 </p>
 
 <h4> 🗄 Database </h4>
 <p>
   <img src="https://img.shields.io/badge/mysql-6DB33F?style=flat-square&amp;logo=mysql&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/mongoDB-6DB33F?style=flat-square&amp;logo=mongoDB&amp;logoColor=white" />
 </p>
 
 <h4> 👨‍👧‍👦 Etc </h4>
