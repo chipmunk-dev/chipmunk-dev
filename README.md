@@ -6,7 +6,7 @@
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=yellow"/>
   <img src="https://img.shields.io/badge/TypeScript-3790AD?style=flat-square&logo=TypeScript&logoColor=blue"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=JAVA&logoColor=white"/>
 </p>
 
 
@@ -14,6 +14,7 @@
 <p>
   <img src="https://img.shields.io/badge/Express-6DB33F?style=flat-square&amp;logo=express&amp;logoColor=red" />
   <img src="https://img.shields.io/badge/React-6DB33F?style=flat-square&amp;logo=React&amp;logoColor=blue" />
+    <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&amp;logo=Spring&amp;logoColor=green" />
 </p>
 
 <h4> 🗄 Database </h4>
