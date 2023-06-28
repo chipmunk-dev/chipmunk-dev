@@ -4,7 +4,6 @@
 
 <h4> 🚩 Language </h4>
 <p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=yellow"/>
   <img src="https://img.shields.io/badge/TypeScript-3790AD?style=flat-square&logo=TypeScript&logoColor=blue"/>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=JAVA&logoColor=white"/>
 </p>
@@ -21,11 +20,6 @@
 <p>
   <img src="https://img.shields.io/badge/mysql-6DB33F?style=flat-square&amp;logo=mysql&amp;logoColor=white" />
   <img src="https://img.shields.io/badge/mongoDB-6DB33F?style=flat-square&amp;logo=mongoDB&amp;logoColor=white" />
-</p>
-
-<h4> 👨‍👧‍👦 Etc </h4>
-<p>
-  <img src="https://img.shields.io/badge/Git-6DB33F?style=flat-square&amp;logo=Git&amp;logoColor=white" />
 </p>
 
 <h3><b>💌 Social 💌 </b></h3>
