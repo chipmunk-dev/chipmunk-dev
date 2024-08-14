@@ -4,22 +4,23 @@
 
 <h4> 🚩 Language </h4>
 <p>
-  <img src="https://img.shields.io/badge/TypeScript-3790AD?style=flat-square&logo=TypeScript&logoColor=blue"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=JAVA&logoColor=white"/>
+  <img src="https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat"/>
+  <img src="https://img.shields.io/badge/TypeScript-3790AD?style=flat&logo=TypeScript&logoColor=blue"/>
 </p>
 
 
 <h4> 📚 Libarary & Framework </h4>
 <p>
-  <img src="https://img.shields.io/badge/Express-6DB33F?style=flat-square&amp;logo=express&amp;logoColor=red" />
-  <img src="https://img.shields.io/badge/React-6DB33F?style=flat-square&amp;logo=React&amp;logoColor=blue" />
-    <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&amp;logo=Spring&amp;logoColor=green" />
+  <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=fff&style=flat" />
+  <img src="https://img.shields.io/badge/-NestJs-ea2845?style=flat&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&amp;logo=React&amp;logoColor=blue" />
+  <img src="https://img.shields.io/badge/redux-764ABC?style=flat&logo=redux&logoColor=white" />
 </p>
 
 <h4> 🗄 Database </h4>
 <p>
-  <img src="https://img.shields.io/badge/mysql-6DB33F?style=flat-square&amp;logo=mysql&amp;logoColor=white" />
-  <img src="https://img.shields.io/badge/mongoDB-6DB33F?style=flat-square&amp;logo=mongoDB&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&labelColor=4479A1&logoColor=FFF" />
+  <img src="https://img.shields.io/badge/-postgresql-4169e1?style=flat&logo=postgresql&labelColor=4169e1&logoColor=white" />
 </p>
 
 <h3><b>💌 Social 💌 </b></h3>
@@ -27,9 +28,6 @@
 <p>
   <a href="mailto:devquokkajeong@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:devquokkajeong@gmail.com"/>
-  </a>
-  <a href="https://chipmunk-dev.github.io/">
-    <img src="http://img.shields.io/badge/Blog-20c997?style=flat-square&logo=Blog&link=https://chipmunk-dev.github.io"/>
   </a>
 </p>
 
