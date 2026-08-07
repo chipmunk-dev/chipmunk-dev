@@ -6,15 +6,16 @@
 <p>
   <img src="https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat"/>
   <img src="https://img.shields.io/badge/TypeScript-3790AD?style=flat&logo=TypeScript&logoColor=blue"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/>
 </p>
 
 
 <h4> 📚 Libarary & Framework </h4>
 <p>
   <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=fff&style=flat" />
-  <img src="https://img.shields.io/badge/-NestJs-ea2845?style=flat&logo=nestjs&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&amp;logo=React&amp;logoColor=blue" />
-  <img src="https://img.shields.io/badge/redux-764ABC?style=flat&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/DirectX-0078D4?style=flat&logo=directx&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Unreal_Engine-313131?style=flat&logo=unrealengine&logoColor=white"/>
 </p>
 
 <h4> 🗄 Database </h4>
